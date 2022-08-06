@@ -1,8 +1,6 @@
 // calculate.cc
 #include <node.h>
 
-// https://youtu.be/O4Rlq_NSkoM
-// Create A C++ Addon For Node js
 // * make sure Visual Studio with C++ (ms-build) installed
 // * npm i -g node-gyp
 // (No need for npm i windows-build-tools)
